@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Halaman Beranda -->
+    <url>
+        <loc>https://lokal.my.id/</loc>
+        <lastmod>2024-11-28</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Halaman Tentang -->
+    <url>
+        <loc>https://lokal.my.id/tentang</loc>
+        <lastmod>2024-11-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Halaman Layanan -->
+    <url>
+        <loc>https://lokal.my.id/layanan</loc>
+        <lastmod>2024-11-22</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Artikel Blog 1 -->
+    <url>
+        <loc>https://lokal.my.id/2024/11/28/hello-world/</loc>
+        <lastmod>2024-11-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Artikel Blog 2 -->
+    <url>
+        <loc>https://lokal.my.id/2024/11/28/pentingnya-transformasi-digital-untuk-kesuksesan-bisnis-di-era-modern/</loc>
+        <lastmod>2024-11-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /xmlrpc.php
+Disallow: /trackback/
+Disallow: /search
+Disallow: /?s=
+Disallow: /?author=
+Disallow: /comments/
+Disallow: /wp-json/
+
+# Blokir parameter query string tertentu
+Disallow: /*?*orderby=
+Disallow: /*?*replytocom=
+Disallow: /*?*utm_*
+Disallow: /*?*preview=true
+
+# Izinkan akses ke file penting
+Allow: /wp-content/uploads/
+
+# Sitemap (gantikan URL di bawah dengan URL sitemap Anda)
+Sitemap: https://lokal.my.id/sitemap.xml
